@@ -58,7 +58,7 @@ body, html {
 a, .a1 {
   text-decoration: none;
   color: #71dfff;
-  font-size: 2.2vw;
+  font-size: 2vw;
 }
 a, .a1:hover {
   text-decoration: underline;
@@ -67,7 +67,7 @@ a, .a1:hover {
 a, .a2 {
   text-decoration: none;
   color: #9171ff;
-  font-size: 2.2vw;
+  font-size: 2vw;
 }
 a, .a2:hover {
   text-decoration: underline;
@@ -76,7 +76,7 @@ a, .a2:hover {
 a, .a3 {
   text-decoration: none;
   color: #ff71df;
-  font-size: 2.2vw;
+  font-size: 2vw;
 }
 a, .a3:hover {
   text-decoration: underline;
@@ -85,7 +85,7 @@ a, .a3:hover {
 a, .a4 {
   text-decoration: none;
   color: #ff7198;
-  font-size: 2.2vw;
+  font-size: 2vw;
 }
 a, .a4:hover {
   text-decoration: underline;
@@ -126,12 +126,12 @@ a, .a4:hover {
 
 .Text {
   text-align: center;
-  font-size: 3.5vw;
+  font-size: 3vw;
   font-weight: 200;
   color: white;
 }
 .subheader {
-  font-size: 4.5vw;
+  font-size: 4vw;
 }
 .paragraph {
   word-wrap: break-word;
