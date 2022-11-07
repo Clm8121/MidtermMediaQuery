@@ -24,8 +24,9 @@ body, html {
   max-width: 15vw;
 }
 
+/* I changed a lot of measurement units, I could have just put then in the media query but I felt that it was better to try to use viewports. This could be the reason why my menu text isn't changing.  That's the main thing I wanted to change and make more visiable */
 @media only screen and (min-width:360px){
-  /* a, .a0 {
+  a, .a0 {
     font-size: 60px;
   }
   a, .a1 {
@@ -36,7 +37,7 @@ body, html {
   }
   a, .a3 {
     font-size: 40px;
-  } */
+  }
   .headerHome {
     word-wrap: break-word;
   }
