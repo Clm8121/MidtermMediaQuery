@@ -21,21 +21,25 @@ body, html {
   font-family:'Mitr', sans-serif;
   font-weight: 500;
   padding: 15px;
+  max-width: 15vw;
 }
 
-@media screen and (min-width:768px){
-  /* a, .a0 {
-    font-size: 71px;
+@media only screen and (min-width:360px){
+  a, .a0 {
+    font-size: 6vw;
   }
   a, .a1 {
-    font-size: 28px;
+    font-size: 4vw;
   }
   a, .a2 {
-    font-size: 71px;
+    font-size: 4vw;
   }
   a, .a3 {
-    font-size: 42px;
-  } */
+    font-size: 4vw;
+  }
+  .headerHome {
+    word-wrap: break-word;
+  }
 }
 
 .mainContainer {
