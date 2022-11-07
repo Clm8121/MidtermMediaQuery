@@ -23,6 +23,24 @@ body, html {
   padding: 15px;
 }
 
+@media screen and (min-width:768px){
+  /* a, .a0 {
+    font-size: 71px;
+  }
+  a, .a1 {
+    font-size: 28px;
+  }
+  a, .a2 {
+    font-size: 71px;
+  }
+  a, .a3 {
+    font-size: 42px;
+  } */
+  .mainContainer {
+    padding-left: 200px
+  }
+}
+
 .mainContainer {
   display: flex;
   flex-direction: column;
