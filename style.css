@@ -26,16 +26,16 @@ body, html {
 
 @media only screen and (min-width:360px){
   a, .a0 {
-    font-size: 6vw;
+    font-size: 60px;
   }
   a, .a1 {
-    font-size: 4vw;
+    font-size: 40px;
   }
   a, .a2 {
-    font-size: 4vw;
+    font-size: 40px;
   }
   a, .a3 {
-    font-size: 4vw;
+    font-size: 40px;
   }
   .headerHome {
     word-wrap: break-word;
