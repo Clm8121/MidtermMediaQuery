@@ -36,29 +36,21 @@ body, html {
   a, .a3 {
     font-size: 42px;
   } */
-  .mainContainer {
-    display: flex;
-    flex-direction: column;
-    padding-top: 50px;
-    padding-left: 200px;
-    padding-right: 35px;
-    font-family:'Mitr', sans-serif;
-  }
 }
 
 .mainContainer {
   display: flex;
   flex-direction: column;
-  padding-top: 50px;
-  padding-left: 130px;
-  padding-right: 35px;
+  padding-top: 5vh;
+  padding-left: 13vw;
+  padding-right: 3.5vw;
   font-family:'Mitr', sans-serif;
 }
 
 .a0 {
   text-decoration: none;
   text-align: center;
-  font-size: 40px;
+  font-size: 4vw;
   font-weight: lighter;
   color: #AE45CC;
 }
@@ -66,7 +58,7 @@ body, html {
 a, .a1 {
   text-decoration: none;
   color: #71dfff;
-  font-size: 22px;
+  font-size: 2.2vw;
 }
 a, .a1:hover {
   text-decoration: underline;
@@ -75,7 +67,7 @@ a, .a1:hover {
 a, .a2 {
   text-decoration: none;
   color: #9171ff;
-  font-size: 22px;
+  font-size: 2.2vw;
 }
 a, .a2:hover {
   text-decoration: underline;
@@ -84,7 +76,7 @@ a, .a2:hover {
 a, .a3 {
   text-decoration: none;
   color: #ff71df;
-  font-size: 22px;
+  font-size: 2.2vw;
 }
 a, .a3:hover {
   text-decoration: underline;
@@ -93,7 +85,7 @@ a, .a3:hover {
 a, .a4 {
   text-decoration: none;
   color: #ff7198;
-  font-size: 22px;
+  font-size: 2.2vw;
 }
 a, .a4:hover {
   text-decoration: underline;
@@ -101,7 +93,7 @@ a, .a4:hover {
 
 .Header {
   text-align: center;
-  font-size: 40px;
+  font-size: 4vw;
   font-weight: 500;
 }
 .headerHome {
@@ -126,30 +118,31 @@ a, .a4:hover {
   text-align: center;
 }
 .aboutmeimage {
-  width: 350px;
+  width: 35vw;
 }
 .workimage {
-  width: 500px;
+  width: 50vw;
 }
 
 .Text {
   text-align: center;
-  font-size: 35px;
+  font-size: 3.5vw;
   font-weight: 200;
   color: white;
 }
 .subheader {
-  font-size: 45px;
+  font-size: 4.5vw;
 }
 .paragraph {
   word-wrap: break-word;
-  padding-left: 75px;
-  padding-right: 75px;
+  padding-left: 7.5vw;
+  padding-right: 7.5vw;
 }
 
 .footer {
   display: flex;
-  height: 75px;
+  font-size: 2vw;
+  height: 7.5vh;
   color: #595959;
   justify-content: center;
   align-items: center;
